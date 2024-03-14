@@ -1,46 +1,54 @@
-# Hi there, I'm [Your Name] 👋
+<!---
+NadjetCoeurbouche/NadjetCoeurbouche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-## About Me
-I'm a passionate frontend developer with [X] years of experience. I love creating beautiful and user-friendly web interfaces using the latest web technologies. Constantly learning and exploring new trends in frontend development is what keeps me motivated.
+<h1 align="center">✨ Hi , I'm Waleed Elshafey✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Cloud+Computing+Enthusiast;Competitive+Programmer;Problem+Solver;Always+learning+new+things;Reach+out+to+me;to+collaborate+on+awesome+projects+!+✨;"></a>
+</p>
+<img align="right" src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" alt="gify nadjet's do tech" width="300" />
 
-## Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** React.js, Angular, Vue.js
-- **CSS Preprocessors:** SASS/SCSS, LESS
-- **UI Libraries:** Bootstrap, Material-UI, Tailwind CSS
-- **Version Control:** Git, GitHub
+<br>
 
-## Projects
-Here are a few projects I've worked on:
+## <picture><img src = "https://github.com/NadjetCoeurbouche/NadjetCoeurbouche//blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
+- 👀 I’m interested in Cloud Computing and Web Development.
+- 👩🏻‍💻 I’m looking to collaborate on open-source projects on web dev with react js and next js.
+- 📫 Reach me on <a  href="https://www.linkedin.com/in/waleed-elshafey-575987298/">LinkedIn</a>.
 
-- [Project 1](link-to-project): Brief description of the project.
-- [Project 2](link-to-project): Brief description of the project.
-- [Project 3](link-to-project): Brief description of the project.
+<br><br>
 
-## Skills
-- Responsive Web Design
-- Cross-Browser Compatibility
-- Performance Optimization
-- UI/UX Design Principles
-- Wireframing and Prototyping
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/waleed-elshafey-575987298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadjetkerbouche" height="30" width="40" /></a>
+<a href="https://www.instagram.com/waleed.elshaf3y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadjetkerbouche" height="30" width="40" /></a>
+<a href="https://www.behance.net/nadjetkerbouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nadjetkerbouche" height="30" width="40" /></a>
+</p>
 
-## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+ </p>
 
-## Featured Articles and Blog Posts
-- [Article 1](link-to-article): Brief description of the article.
-- [Article 2](link-to-article): Brief description of the article.
-- [Article 3](link-to-article): Brief description of the article.
+<br>
 
-## Certifications
-- [Certification 1](link-to-certification): Brief description of the certification.
-- [Certification 2](link-to-certification): Brief description of the certification.
+---
 
-## Connect with Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-profile)
-- Website: [your-website.com](https://www.your-website.com)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- Dev.to: [@your-devto-handle](https://dev.to/your-devto-handle)
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
-Feel free to reach out if you have any questions or would like to collaborate on a project!
+![VisitorCount](https://profile-counter.glitch.me/NadjetCoeurbouche/count.svg)
+
+  
