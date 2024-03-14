@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Cloud+Computing+Enthusiast;Competitive+Programmer;Problem+Solver;Always+learning+new+things;Reach+out+to+me;to+collaborate+on+awesome+projects+!+✨;"></a>
 </p>
-<img align="right" src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" alt="gify nadjet's do tech" width="300" />
 
 <br>
 
@@ -22,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.linkedin.com/in/waleed-elshafey-575987298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadjetkerbouche" height="30" width="40" /></a>
 <a href="https://www.instagram.com/waleed.elshaf3y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadjetkerbouche" height="30" width="40" /></a>
-<a href="https://www.behance.net/nadjetkerbouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nadjetkerbouche" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
